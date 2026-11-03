@@ -16,3 +16,4 @@ Section: BSIT - 3.5
 ## My Prediction for 250 / 4
 My prediction was that 250 / 4 using int values would result in 62. I was correct because integer division removes the decimal part of the result. The remainder is 2, while converting the total bill to double gives an exact share of PHP 62.50.
 
+This repository was created as part of the Week 1 C# programming activity.
